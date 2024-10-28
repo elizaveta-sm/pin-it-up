@@ -1,20 +1,18 @@
 # Pinterest Clone - Pin It Up - with React & Sanity
 
 <!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About the Project</a>
-      <ul>
-        <li><a href="#key-features-include">Key Features Include</a></li>
-        <li><a href="#built-with">Built With</a></li>
-        <li><a href="#deployed-with">Deployed With</a></li>
-      </ul>
-    </li>
-    <li><a href="#license">License</a></li>
-  </ol>
-</details>
+<summary>Table of Contents</summary>
+<ol>
+  <li>
+    <a href="#about-the-project">About the Project</a>
+    <ul>
+      <li><a href="#key-features-include">Key Features Include</a></li>
+      <li><a href="#built-with">Built With</a></li>
+      <li><a href="#deployed-with">Deployed With</a></li>
+    </ul>
+  </li>
+  <li><a href="#license">License</a></li>
+</ol>
 
 &nbsp;
 
@@ -25,9 +23,7 @@
 
 **Pin It Up** is a full-stack Pinterest clone enabling users to **share, save, and organize** pins (images) by categories.
 
-&nbsp; 
-
-![](../pin-it-up-assets/pin-it-up-desktop.mp4)
+Watch the video <a href="https://github.com/elizaveta-sm/pin-it-up/blob/main/assets/pin-it-up-desktop.mp4">here</a>.
 
 ### Key Features Include
 
