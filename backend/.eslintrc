@@ -1,0 +1,10 @@
+{
+  "extends": ["@sanity/eslint-config-studio", "@babel/core"], 
+  "parser": "@babel/eslint-parser", 
+  "parserOptions": { 
+    "requireConfigFile": false,
+    "babelOptions": { 
+      "presets": ["@babel/preset-env"] 
+    } 
+  }
+}
