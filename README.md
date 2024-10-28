@@ -19,11 +19,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About the Project
 
-<img alt="pin it up logo" src="../frontend/public/pin-it-up-logo.png" height="175" />
+<img alt="pin it up logo" src="./frontend/public/pin-it-up-logo.png" height="175" />
 
 **Pin It Up** is a full-stack Pinterest clone enabling users to **share, save, and organize** pins (images) by categories.
 
 Watch the video <a href="https://github.com/elizaveta-sm/pin-it-up/blob/main/assets/pin-it-up-desktop.mp4">here</a>.
+
+&nbsp;
 
 ### Key Features Include
 
