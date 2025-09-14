@@ -1,5 +1,9 @@
 # Pinterest Clone - Pin It Up - with React & Sanity
 
+> :speech_balloon: На русском:
+> 
+> [![Static Badge](https://img.shields.io/badge/lang-ru-%23e3242b)](https://github.com/elizaveta-sm/pin-it-up/blob/main/README.ru.md)
+
 <!-- TABLE OF CONTENTS -->
 <summary>Table of Contents</summary>
 <ol>
@@ -57,3 +61,4 @@ Watch the video demo <a href="https://github.com/elizaveta-sm/pin-it-up/blob/mai
 Distributed under the MIT License. 
 
 > See <a href="https://github.com/elizaveta-sm/pin-it-up/blob/main/LICENSE.md">LICENSE.md</a> for more information.
+
