@@ -23,7 +23,7 @@
 
 **Pin It Up** is a full-stack Pinterest clone enabling users to **share, save, and organize** pins (images) by categories.
 
-Watch the video <a href="https://github.com/elizaveta-sm/pin-it-up/blob/main/assets/pin-it-up-desktop.mp4">here</a>.
+Watch the video demo <a href="https://github.com/elizaveta-sm/pin-it-up/blob/main/assets/pin-it-up-desktop.mp4">here</a>. You'll have to download it first.
 
 &nbsp;
 
@@ -55,4 +55,5 @@ Watch the video <a href="https://github.com/elizaveta-sm/pin-it-up/blob/main/ass
 
 ## License
 Distributed under the MIT License. 
+
 > See <a href="https://github.com/elizaveta-sm/pin-it-up/blob/main/LICENSE.md">LICENSE.md</a> for more information.
